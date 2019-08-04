@@ -1,0 +1,49 @@
+Package: com.raytrace.taikoforcev5usb
+Version: 1.0.0-13
+Architecture: iphoneos-arm
+Maintainer: raytrace
+Installed-Size: 224
+Depends: mobilesubstrate
+Filename: ./debs/com.raytrace.taikoforcev5usb_1.0.0-13_iphoneos-arm.deb
+Size: 54530
+MD5sum: b943aef095ea6cad5890884b3a86c22d
+SHA1: 05792f913cbfbfab8483e970e6ae2f3e4fc78206
+SHA256: 2a932905fe36a2c6d521aec84d98af39ca72d9dc612277fba1bf55175ba31ee9
+Section: Tweaks
+Description: Play Taiko with Taiko Force V5 PC mod!
+Author: raytrace
+Name: Taiko Force V5 USB
+
+Package: com.raytrace.wiimotepowertaikov5
+Version: 1.1-104
+Architecture: iphoneos-arm
+Maintainer: raytrace <raytrace@sina.com>
+Installed-Size: 220
+Depends: ch.ringwald.btstack, kr.iolate.simulatetouch
+Filename: ./debs/com.raytrace.wiimotepowertaikov5_1.1-104_iphoneos-arm.deb
+Size: 41576
+MD5sum: 3b130208b0026a96f4eb58d3acc50f58
+SHA1: 2a060916b3ca141400c6f689b4255d02d9e44dd6
+SHA256: 3763e5d6570944832c425a65fce7e22e41a5c36e55c5554ac2403ffc11ae8298
+Section: Networking
+Homepage: http://code.google.com/p/btstack/
+Description: play Taiko for Taiko Force V5 use WiiMote
+Author: raytrace <raytrace@sina.com>
+Name: Taiko Force V5
+
+Package: net.winneonsword.package
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Jesse Bryan <winneonsword@gmail.com>
+Filename: ./Package.deb
+Size: 740
+MD5sum: 952b9b1e57c0c9a4ad115247fb606c1b
+SHA1: 974b87954db077ad1fa91200b9bb7b060e00361f
+SHA256: 2a0f49279c9d78e56cdef8209f1dd609bb0ddb33c82e1d019743b108ac351cf1
+Section: Themes
+Homepage: http://repo.winneonsword.net
+Description: This is a test package from /u/WinneonSword's tutorial repository!
+Author: Jesse Bryan <winneonsword@gmail.com>
+Depiction: http://repo.winneonsword.net/packages/package.html
+Name: Test Package
+
