@@ -1,0 +1,35 @@
+Package: com.raytrace.taikoforcev5usb
+Version: 1.0.0-23
+Architecture: iphoneos-arm
+Maintainer: raytrace <raytrace@sina.com>
+Installed-Size: 224
+Depends: mobilesubstrate
+Filename: ./debs/com.raytrace.taikoforcev5usb_1.0.0-23_iphoneos-arm.deb
+Size: 54766
+MD5sum: 2a5f6ef009d0f3107415e9931d20f92e
+SHA1: 5d90a62ae895a8483d2912286efc075a060f1233
+SHA256: dc31fb762ff7b89897b8e81a99b8444614fe4a345626349c6a623be4eb247eca
+Section: Game Hacks/Mods
+Homepage: http://raypopo.github.io/cydia
+Description: Play Taiko with Taiko Force V5 PC mod! IOS 9-12
+Author: raytrace <raytrace@sina.com>
+Depiction: http://raypopo.github.io/cydia/depic/com.raytrace.taikoforcev5usb/index.html
+Name: Taiko Force V5 USB
+
+Package: com.raytrace.wiimotepowertaikov5
+Version: 1.1-106
+Architecture: iphoneos-arm
+Maintainer: raytrace <raytrace@sina.com>
+Installed-Size: 244
+Depends: ch.ringwald.btstack, kr.iolate.simulatetouch
+Filename: ./debs/com.raytrace.wiimotepowertaikov5_1.1-106_iphoneos-arm.deb
+Size: 42008
+MD5sum: 611e7faa10d67078d44d3834af89071c
+SHA1: 1488f2ab1570cc6908dcddf7e9637f4d03817f4f
+SHA256: 80ea6f6496fced0ce3d4e1099942cb94b7e125a7645ee2c0b9eba143bd6b8af7
+Section: Tweaks
+Homepage: http://code.google.com/p/btstack/
+Description: play Taiko for Taiko Force V5 use WiiMote
+Author: raytrace <raytrace@sina.com>
+Name: Taiko Force V5
+
