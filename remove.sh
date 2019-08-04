@@ -1,3 +1,1 @@
-rm -r *.deb
-rm -r Packages.bz2
-rm -f Release
+rm -f Packages.bz2
