@@ -1,14 +1,14 @@
 Package: com.raytrace.taikoforcev5usb
-Version: 1.0.0-24
+Version: 1.1.0-9
 Architecture: iphoneos-arm
 Maintainer: raytrace <raytrace@sina.com>
-Installed-Size: 224
+Installed-Size: 124
 Depends: mobilesubstrate
-Filename: ./debs/com.raytrace.taikoforcev5usb_1.0.0-24_iphoneos-arm.deb
-Size: 54776
-MD5sum: b5287717f0bfe28564269cd81cc02754
-SHA1: df71fe903c78d1e72313781be5a09a4fea3c5d75
-SHA256: 2b813b18ec00d8fa8bf389696f18b839a5909192e8574ce3796f10ad53c58e22
+Filename: ./debs/com.raytrace.taikoforcev5usb_1.1.0-9_iphoneos-arm.deb
+Size: 16736
+MD5sum: d1e5384c390032e77ce771487497435e
+SHA1: 2e5cb048ade93d9a6e3d7448824f7685fc246805
+SHA256: 98ba301830f4053c79fb922480c8b10b27bf7320daa730a8655203dbe2e51f48
 Section: Game Hacks/Mods
 Homepage: http://raypopo.github.io/cydia
 Description: Play Taiko with Taiko Force V5 PC mod! IOS 9-12
